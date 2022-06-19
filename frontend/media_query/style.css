@@ -9,15 +9,12 @@
   .top-content {
     background: url(images/bg-hero-mobile.svg);
   }
-  .header {
-    padding-top: 20px;
-  }
   .top-content-main {
     display: block;
   }
 
   .top-content-left h3 {
-    font-size: large;
+    font-size: 20px;
     font-family: Poppins, sans-serif;
     font-weight: 600;
   }
@@ -27,11 +24,10 @@
   }
   .top-content-right {
     width: 65%;
-    margin-left: 200px;
   }
   .top-content-right img {
-    width: 80%;
-    height: 80%;
+    width: 20%;
+    height: 20%;
   }
   .main-content {
     background-color: white;
